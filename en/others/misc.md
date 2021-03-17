@@ -1,0 +1,3 @@
+- Rust learning
+- Substrate learning
+- 
